@@ -23,7 +23,7 @@ Some of the most important features -- both for XGBoost and the rest of the mode
 We created a Tableau dashboard, which can be found via this link (https://public.tableau.com/app/profile/ryan.dunn4243/viz/EmployeeAttritionRiskManagement/EmployeeAttritionDashboard?publish=yes) to help discover which employees in this data set are at high risk of turnover, to help inform managers and leaders. With this as well as information derived from models, strategies can be put in place to limit turnover at their organization.
 
 ## Installation and Programming
-Analysis was done using the Python Programming Language, SQLite3 and Tableau
+Analysis was done using the Python Programming Language and SQLite3 database
 
 ## Methods Used:
 * Descriptive Statistics
@@ -33,7 +33,7 @@ Analysis was done using the Python Programming Language, SQLite3 and Tableau
 * Machine Learning Models (AdaBoost, XGBoost, SGD, LDA, KNN, Random Forest, Decision Tree, Logistic Regression)
 
 ## Technologies:
-Jupyter Notebooks
+Jupyter Notebooks, Tableau Desktop, Tableau Public
 
 ## Source Data:
 HR Analytics Case Study:  https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study?select=employee_survey_data.csv
