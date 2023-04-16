@@ -1,6 +1,7 @@
 # HR Analytics Case Study
 ## Analyzing and Modeling Employee Turnover
 
+### Overview:
 Retaining employees and limiting their turnover is important for any company to do, as there are many negative ways that can impact a business, from hurting workforce planning to limiting productivity.
 
 By providing insight via modeling and an easy-to-use dashboard, our goal is to enable leaders to easily view what employees are at risk for turnover while understanding the "why" behind it.
@@ -20,4 +21,6 @@ There was constant iteration of these models to ensure there wasn't any overfitt
 Some of the most important features -- both for XGBoost and the rest of the models -- were consistently around pay, age, satisfaction, and distance from home. 
 
 We created a Tableau dashboard, which can be found via this link (https://public.tableau.com/app/profile/ryan.dunn4243/viz/EmployeeAttritionRiskManagement/EmployeeAttritionDashboard?publish=yes) to help discover which employees in this data set are at high risk of turnover, to help inform managers and leaders. With this as well as information derived from models, strategies can be put in place to limit turnover at their organization.
+
+### Methods Used:
 
