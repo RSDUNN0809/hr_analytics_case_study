@@ -29,11 +29,12 @@ Analysis was done using the Python Programming Language and SQLite3 database
 * Descriptive Statistics
 * Data Visualization
 * Data Engineering
-* Data Manipulation
+* Data Transformation
 * Machine Learning Models (AdaBoost, XGBoost, SGD, LDA, KNN, Random Forest, Decision Tree, Logistic Regression)
+* Confusion Matrix
 
 ## Technologies:
-Jupyter Notebooks, Tableau Desktop, Tableau Public
+Jupyter Notebooks, Google Colab, Tableau Desktop, Tableau Public
 
 ## Source Data:
 HR Analytics Case Study:  https://www.kaggle.com/datasets/vjchoudhary7/hr-analytics-case-study?select=employee_survey_data.csv
